@@ -110,7 +110,7 @@ confusion_heatmap.png	Deep Learning confusion matrix
 result_distribution.png	Resistance vs Susceptible distribution
 prediction_graph.png	Sample-wise prediction visualization
 comparison_graph.png	RF vs DL correlation scatterplot
-![Confusion Matrix Heatmap](DL Prediction.png)
+![Confusion Matrix Heatmap](mutation_heatmap.png)
 🧪 Visualization Example
 
 Example prediction results:
