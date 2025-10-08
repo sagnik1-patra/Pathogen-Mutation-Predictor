@@ -1,0 +1,12 @@
+merge_key: sample_id
+models:
+  DeepLearning: 1.0
+  RandomForest: 1.0
+project: BioMind - Pathogen Mutation Predictor
+target_column: country
+test_shape: !!python/tuple
+- 5
+- 23
+train_shape: !!python/tuple
+- 12
+- 23
