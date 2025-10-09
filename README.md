@@ -1,4 +1,4 @@
-🧫 BioMind — AI Pathogen Mutation & Drug Resistance Predictor
+🧫 BioMind — AI Pathogen Mutation & Drug Resistance Predictor.
 
 BioMind is an AI-powered system that predicts antimicrobial resistance (AMR) and identifies high-risk pathogen mutations using deep learning and genomic data.
 It integrates mutation profiles, drug response data, and clinical metadata to forecast whether a pathogen strain is resistant or susceptible — and visualizes key mutation–drug interaction patterns.
